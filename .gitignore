@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+# vim backup files
+*.swp
+*.swq
+*.swn
+*.swo
+
